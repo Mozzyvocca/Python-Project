@@ -29,3 +29,21 @@ kata = 'belajar menjadi lebih baik'
 jumlah_karakter=len(kata)
 print(jumlah_karakter)
 
+#Matemtaika Python
+nilai1 = 2
+nilai2 = 5
+
+hasil = nilai1 + nilai2
+print(nilai1, '+', nilai2, '=', hasil)
+
+hasil = nilai1 - nilai2
+print(nilai1, '-', nilai2, '=', hasil)
+
+hasil = nilai1 * nilai2
+print(nilai1, '*', nilai2, '=', hasil)
+
+hasil = nilai1 / nilai2
+print(nilai1, '/', nilai2, '=', hasil)
+
+#program untuk menemukan jumlah bilangan dalam satu list
+
